@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c8ef7330-1e7e-45b6-9005-48ab40d819e8",
+    "data": [
+      {
+        "text": "Motor saya suaranya tidak normal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f3a5590b-8522-4d5f-b4f5-f74c0e72f963",
+    "data": [
+      {
+        "text": "Apa penyebab suara motor kasar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "481bc1c7-426b-4c0b-8a30-3eeadd59cbdb",
+    "data": [
+      {
+        "text": "Kenapa motor saya berisik?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "626fadd5-6e01-469d-a9cd-568ac367da15",
+    "data": [
+      {
+        "text": "Tips agar selamat berkendara motor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1999c8bf-b758-4a31-8cc6-7622b083b4a1",
+    "data": [
+      {
+        "text": "Apa saja yang harus diperhatikan saat naik motor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c032976a-9e10-494f-a837-c63961a7afba",
+    "data": [
+      {
+        "text": "Bagaimana tips berkendara motor yang aman?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

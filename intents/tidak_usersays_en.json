@@ -1,0 +1,41 @@
+[
+  {
+    "id": "e9cb83ca-d1bc-4c51-8991-74fbd2d8d371",
+    "data": [
+      {
+        "text": "Cukup, terima kasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5f1d3598-7365-4850-9388-9738b8480d25",
+    "data": [
+      {
+        "text": "Ga ada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e4f29239-c14d-4f0d-adbb-d8035dfdd243",
+    "data": [
+      {
+        "text": "Tidak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

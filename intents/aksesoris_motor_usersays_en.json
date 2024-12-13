@@ -1,0 +1,41 @@
+[
+  {
+    "id": "7c5f75c3-d785-4c57-a7e8-468109566962",
+    "data": [
+      {
+        "text": "Apa aksesoris penting untuk motor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "92a78c8c-d5a5-4c11-a291-9078a3e6ba54",
+    "data": [
+      {
+        "text": "Tips memilih aksesoris motor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "275c2dde-d51c-43be-bf9d-48dc02b802f9",
+    "data": [
+      {
+        "text": "Aksesoris motor apa yang direkomendasikan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "id": "6280ffc2-ea4a-4fa0-beb3-4d1cfdfa1410",
+    "data": [
+      {
+        "text": "Motor saya perlu ganti oli",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5224244e-df62-475b-bee4-07e4989544e5",
+    "data": [
+      {
+        "text": "Panduan ganti oli",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d6aea8df-065d-48a5-a415-38ccdfcf8c39",
+    "data": [
+      {
+        "text": "Bagaimana cara ganti oli motor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e60dd137-7c4e-49c6-9722-fce95788de61",
+    "data": [
+      {
+        "text": "Kapan harus ganti oli?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

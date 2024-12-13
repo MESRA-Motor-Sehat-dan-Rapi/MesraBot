@@ -1,0 +1,41 @@
+[
+  {
+    "id": "4bbc3b62-009a-4586-8489-871982a82075",
+    "data": [
+      {
+        "text": "Kapan harus ganti oli",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f5f217c3-59f4-4d0b-a3e8-cceb42a9aa45",
+    "data": [
+      {
+        "text": "Seberapa sering ganti oli",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c5c2042f-770a-47e8-bbcf-ea4cffda93da",
+    "data": [
+      {
+        "text": "Jadwal penggantian oli",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

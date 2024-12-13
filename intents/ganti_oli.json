@@ -1,0 +1,35 @@
+{
+  "id": "e02c716c-9eeb-4b34-8620-19a6a88f6ba6",
+  "name": "ganti_oli",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Untuk mengganti oli motor Panaskan mesin sebentar. Buka baut pembuangan oli. Tunggu oli lama keluar sepenuhnya. Pasang kembali baut pembuangan dan isi oli baru. Gunakan oli yang sesuai dengan spesifikasi motor Anda."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "bbed4401-e67c-424d-b4be-d9f21027790b",
+    "data": [
+      {
+        "text": "Kapan harus mengganti oli motor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0345e0d3-ce55-4c35-93a9-6248f6638421",
+    "data": [
+      {
+        "text": "Apa langkah-langkah mengganti oli?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c56c5d99-3c07-4d0a-b950-fb75a42a6c51",
+    "data": [
+      {
+        "text": "Bagaimana cara mengganti oli motor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

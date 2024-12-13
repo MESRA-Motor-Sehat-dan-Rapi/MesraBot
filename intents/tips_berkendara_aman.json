@@ -1,0 +1,35 @@
+{
+  "id": "8ada5c87-4e14-46a3-9a1e-2d0872018b20",
+  "name": "tips_berkendara_aman",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Gunakan helm standar SNI, selalu nyalakan lampu sein saat berbelok, patuhi kecepatan maksimal, dan periksa kondisi motor sebelum perjalanan."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "34f7b318-31eb-472b-b10b-4fe0215ca720",
+  "name": "cek_rantai_motor",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Periksa rantai motor dengan memastikan tegangannya tidak terlalu kencang atau kendor. Gunakan pelumas rantai secara rutin untuk menjaga kelenturan dan mencegah karat."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

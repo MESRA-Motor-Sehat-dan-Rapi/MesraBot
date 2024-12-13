@@ -1,0 +1,35 @@
+{
+  "id": "6568bcd6-84d5-443d-8e53-4809e59f4a95",
+  "name": "motor_sulit_dihidupkan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Motor sulit dihidupkan bisa disebabkan oleh aki lemah, busi kotor atau rusak, atau karburator yang tersumbat. Periksa komponen tersebut atau coba starter ulang setelah beberapa saat"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "b1ecaff5-fa6d-48c2-a716-0456f2f02701",
+    "data": [
+      {
+        "text": "Kaca spion pecah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "abdfb281-cc25-4d19-8855-7ccbb3eae643",
+    "data": [
+      {
+        "text": "Spion retak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "38c5125f-34fa-4c80-a28e-d43ed50e0d00",
+    "data": [
+      {
+        "text": "Kaca spion retak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

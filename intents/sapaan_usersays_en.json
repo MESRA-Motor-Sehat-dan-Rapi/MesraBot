@@ -1,0 +1,67 @@
+[
+  {
+    "id": "e66168a4-2b31-4ae5-9d2d-4664ebc6c335",
+    "data": [
+      {
+        "text": "Tolong bantu saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "56c3adff-1b59-4935-830a-dcf268455f91",
+    "data": [
+      {
+        "text": "Selamat malam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9719fbf3-b3fb-4bfc-b523-a8caad7cf3a1",
+    "data": [
+      {
+        "text": "Selamat pagi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "10b52882-9ebd-437a-8c77-bb037036489d",
+    "data": [
+      {
+        "text": "halo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8eef37ff-a370-43ca-bed6-f92376694c62",
+    "data": [
+      {
+        "text": "hi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

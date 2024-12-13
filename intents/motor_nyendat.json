@@ -1,0 +1,35 @@
+{
+  "id": "cf9a6f2e-d58d-4aad-adf2-381fe673d5d2",
+  "name": "motor_nyendat",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Motor nyendat bisa disebabkan oleh filter udara kotor, karburator bermasalah, atau pengapian yang tidak stabil. Pastikan komponen tersebut bersih dan berfungsi dengan baik."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

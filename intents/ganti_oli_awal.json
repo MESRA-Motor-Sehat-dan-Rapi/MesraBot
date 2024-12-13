@@ -1,0 +1,42 @@
+{
+  "id": "f32e21a1-29b4-433a-bce4-6382eca52536",
+  "name": "ganti_oli_awal",
+  "auto": true,
+  "contexts": [
+    "ganti_oli"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "ganti_oli",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Apakah Anda ingin mengetahui jadwal penggantian oli atau cara menggantinya?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

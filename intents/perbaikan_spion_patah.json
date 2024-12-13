@@ -1,0 +1,42 @@
+{
+  "id": "33aeb1c1-174b-44ea-a3f0-25bbd2dafd56",
+  "name": "perbaikan_spion_patah",
+  "auto": true,
+  "contexts": [
+    "perbaikan_spion"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "perbaikan_spion",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Untuk memperbaiki spion yang patah, Anda perlu mengganti spion tersebut. Langkah-langkah: 1. Beli spion pengganti yang sesuai dengan motor Anda. Siapkan obeng dan kunci pas. Lepaskan spion yang patah dengan membuka baut pengikat. Pasang spion baru dan kencangkan baut pengikat. Alat dan Bahan: Spion baru, obeng, kunci pas."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

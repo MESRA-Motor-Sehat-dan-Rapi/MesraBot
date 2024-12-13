@@ -1,0 +1,42 @@
+{
+  "id": "9c058e50-d498-42bd-be3a-43d374f9aaf8",
+  "name": "ganti_oli_jadwal",
+  "auto": true,
+  "contexts": [
+    "ganti_oli"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "ganti_oli",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sebaiknya ganti oli setiap 2000 km atau sesuai rekomendasi pabrik. Pastikan mesin dalam kondisi hangat saat mengganti oli."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

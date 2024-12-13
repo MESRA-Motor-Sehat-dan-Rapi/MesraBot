@@ -1,0 +1,35 @@
+{
+  "id": "980c9085-00cd-44fe-89ea-d1f3dd3758b7",
+  "name": "aksesoris_motor",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Beberapa aksesoris penting meliputi pelindung tangan, box penyimpanan, kaca spion tambahan, dan kunci pengaman untuk keamanan ekstra."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

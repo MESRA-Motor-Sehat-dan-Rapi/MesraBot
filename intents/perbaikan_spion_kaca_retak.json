@@ -1,0 +1,42 @@
+{
+  "id": "6c4300d6-e0e8-4754-8c4e-dc4e81acbf41",
+  "name": "perbaikan_spion_kaca_retak",
+  "auto": true,
+  "contexts": [
+    "perbaikan_spion"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "perbaikan_spion",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Jika kaca spion retak, Anda dapat mengganti kacanya atau keseluruhan spion jika diperlukan. Langkah-langkah: 1. Beli kaca spion pengganti atau spion baru. Lepaskan kaca spion yang retak. Pasang kaca spion baru dengan hati-hati. Alat dan Bahan: Kaca spion baru, obeng."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

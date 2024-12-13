@@ -1,0 +1,35 @@
+{
+  "id": "8df76ef6-6a2d-470f-8437-102ff4f81b90",
+  "name": "motor_boros_bensin",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Motor boros bensin dapat disebabkan oleh filter udara kotor, busi tidak optimal, atau tekanan ban yang tidak sesuai. Pastikan filter udara bersih, busi dalam kondisi baik, dan ban memiliki tekanan ideal."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

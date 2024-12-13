@@ -1,0 +1,54 @@
+[
+  {
+    "id": "82c6d386-688d-432e-9a75-f8f0bfce1773",
+    "data": [
+      {
+        "text": "Terima kasih atas bantuannya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d80dc8c3-3302-49cd-be7a-c527c0ce7290",
+    "data": [
+      {
+        "text": "Makasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f6732de5-0ce4-43a5-be88-a78b74f80df4",
+    "data": [
+      {
+        "text": "Thanks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "37794640-e59e-4c26-b3ca-b3caad963be0",
+    "data": [
+      {
+        "text": "Terima kasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

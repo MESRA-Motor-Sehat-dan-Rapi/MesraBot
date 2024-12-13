@@ -1,0 +1,41 @@
+[
+  {
+    "id": "d9527459-9b87-495c-980c-5cf9110c6b12",
+    "data": [
+      {
+        "text": "Motor sering tersendat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cf248852-baca-43bb-b0f8-a6a05c0cd94e",
+    "data": [
+      {
+        "text": "Apa penyebab motor nyendat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "65038ba4-d981-4b57-99a7-38dc76a33612",
+    "data": [
+      {
+        "text": "Kenapa motor saya nyendat saat jalan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

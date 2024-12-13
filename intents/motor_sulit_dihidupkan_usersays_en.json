@@ -1,0 +1,54 @@
+[
+  {
+    "id": "32c11700-a602-48ab-abb0-2063ba7642a1",
+    "data": [
+      {
+        "text": "Apa penyebab motor susah hidup?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d087d1e2-95b2-4ebd-a9a7-5f081e2edb92",
+    "data": [
+      {
+        "text": "Mengapa motor sulit start?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8482a3a8-4ea6-4546-8aff-c8d4aa4e77be",
+    "data": [
+      {
+        "text": "Motor saya susah dihidupkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b9a0077d-44c1-45db-8967-548e118223dd",
+    "data": [
+      {
+        "text": "Kenapa motor tidak mau menyala?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "id": "8dd0e655-6728-4cae-992f-6c0fbdc03b75",
+    "data": [
+      {
+        "text": "Bagaimana cara menggantinya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "62a06c1c-e88e-435c-bd33-93dc9153b79d",
+    "data": [
+      {
+        "text": "Cara mengganti oli",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

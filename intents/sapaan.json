@@ -1,0 +1,37 @@
+{
+  "id": "5773723b-e53e-4692-8a88-9f5d4139d55d",
+  "name": "sapaan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Halo, ada yang bisa saya bantu terkait motor Anda?",
+            "Hai, apa masalah motor Anda hari ini?",
+            "Silakan tanyakan, saya siap membantu permasalahan motor Anda"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

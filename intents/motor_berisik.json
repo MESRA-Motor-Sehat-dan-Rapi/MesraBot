@@ -1,0 +1,35 @@
+{
+  "id": "36f97ff8-bfdc-4d30-b56d-b5ededf386d3",
+  "name": "motor_berisik",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Suara berisik pada motor dapat disebabkan oleh rantai kendor, knalpot bocor, atau mesin kekurangan pelumas. Periksa bagian tersebut dan segera atasi untuk mencegah kerusakan lebih lanjut."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

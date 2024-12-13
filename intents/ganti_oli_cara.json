@@ -1,0 +1,35 @@
+{
+  "id": "e1b21999-cc17-4515-aa86-33bba046573a",
+  "name": "ganti_oli_cara",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Berikut adalah langkah-langkah untuk mengganti oli: Langkah-langkah: 1. Panaskan mesin selama 5 menit. 2. Siapkan wadah untuk menampung oli bekas. Buka baut pembuangan oli di bawah mesin. Biarkan oli lama keluar hingga habis. Pasang kembali baut pembuangan. Isi oli baru melalui lubang pengisian. Alat dan Bahan: Oli baru sesuai spesifikasi, kunci pas, wadah penampung oli."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

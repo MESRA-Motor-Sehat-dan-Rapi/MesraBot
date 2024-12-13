@@ -1,0 +1,41 @@
+[
+  {
+    "id": "940cc8d6-9f01-4b49-9280-ee0206865071",
+    "data": [
+      {
+        "text": "Motor jadi boros bahan bakar, kenapa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8cc9e300-7279-4074-b6b1-2c1153827eff",
+    "data": [
+      {
+        "text": "Apa penyebab konsumsi bensin motor tinggi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "71f1707c-47a3-4f03-b055-debc5102b2ce",
+    "data": [
+      {
+        "text": "Kenapa motor saya boros bensin?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "id": "bfe1e0da-6dce-49f8-8d0e-e6089e1f1ccd",
+  "name": "terima_kasih",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sama-sama, semoga informasi ini membantu!",
+            "Sama-sama, jika ada pertanyaan lain seputar motor, jangan ragu untuk bertanya."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

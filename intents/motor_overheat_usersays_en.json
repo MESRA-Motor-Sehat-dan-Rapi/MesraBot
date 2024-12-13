@@ -1,0 +1,41 @@
+[
+  {
+    "id": "3c2e7763-56ba-4df6-a0dc-3a2217f7c5e8",
+    "data": [
+      {
+        "text": "Motor overheat, apa yang harus dilakukan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "46ffd95e-ac0f-41d0-81ba-31a61ef46fe8",
+    "data": [
+      {
+        "text": "Apa penyebab mesin motor overheat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "403b4036-bb11-4fbc-8edc-dfc580658374",
+    "data": [
+      {
+        "text": "Kenapa motor saya cepat panas?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

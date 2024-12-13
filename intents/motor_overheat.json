@@ -1,0 +1,35 @@
+{
+  "id": "57b6f269-8348-4b25-8235-bb3d1091f059",
+  "name": "motor_overheat",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Motor yang cepat panas bisa disebabkan oleh oli yang tidak sesuai atau habis, radiator kotor, atau sistem pendingin bermasalah. Periksa komponen tersebut dan ganti oli jika perlu."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
